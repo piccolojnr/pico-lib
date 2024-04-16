@@ -54,7 +54,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Related Projects
 
-- [Pico Library API](https://github.com/your-username/pico-library/tree/main/backend): Flask-based API for Pico Library.
+- [Pico Library API](https://github.com/piccolojnr/pico-lib-api): Flask-based API for Pico Library.
 
 ## Licensing
 
